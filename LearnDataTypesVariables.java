@@ -16,7 +16,11 @@ public class LearnDataTypesVariables {
 		System.out.println("Size of the mobile is:"+ size);
 		System.out.println(shape);
 		System.out.println(brandName);
-		
+		System.out.println(resolution);
+		System.out.println(weight);
+		System.out.println(isTouchScreen);
+		System.out.println(costMobile);
+		System.out.println(IMEI);
 	}
 
 }
